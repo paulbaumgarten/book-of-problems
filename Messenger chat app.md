@@ -1,4 +1,5 @@
-# Problem title
+# Messenger chat app
+
 
 ## RECOMMENDED PRIOR UNDERSTANDING
 
@@ -14,13 +15,9 @@
 |                                       |                                       |
 |                                       |                                       |
 
-Calculate the monthly payments of a fixed term loan over given Nth terms at a given interest
-rate. Also figure out how long it will take the user to pay back the loan. For added complexity, add an option for users to select the compounding interval ﴾Monthly, Weekly, Daily, Continually﴿.
-
 ## TASK TWO
 
 ## TASK THREE
 
 ## ATTRIBUTION/CREDIT
-
 

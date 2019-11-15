@@ -1,4 +1,4 @@
-# Problem title
+# Simple to-do app
 
 ## RECOMMENDED PRIOR UNDERSTANDING
 
@@ -8,18 +8,21 @@
 
 ## TASK ONE
 
+Inputing and displaying a task
+
 | Example input                         | Example output                        |
 | ------------------------------------- | ------------------------------------- |
 |                                       |                                       |
 |                                       |                                       |
 |                                       |                                       |
 
-Calculate the monthly payments of a fixed term loan over given Nth terms at a given interest
-rate. Also figure out how long it will take the user to pay back the loan. For added complexity, add an option for users to select the compounding interval ﴾Monthly, Weekly, Daily, Continually﴿.
-
 ## TASK TWO
 
+Saving tasks to file
+
 ## TASK THREE
+
+Reading tasks from file
 
 ## ATTRIBUTION/CREDIT
 

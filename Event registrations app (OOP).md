@@ -1,4 +1,4 @@
-# Problem title
+# Event registrations app (OOP)
 
 ## RECOMMENDED PRIOR UNDERSTANDING
 
@@ -14,9 +14,6 @@
 |                                       |                                       |
 |                                       |                                       |
 
-Calculate the monthly payments of a fixed term loan over given Nth terms at a given interest
-rate. Also figure out how long it will take the user to pay back the loan. For added complexity, add an option for users to select the compounding interval ﴾Monthly, Weekly, Daily, Continually﴿.
-
 ## TASK TWO
 
 ## TASK THREE
@@ -24,3 +21,11 @@ rate. Also figure out how long it will take the user to pay back the loan. For a
 ## ATTRIBUTION/CREDIT
 
 
+Create a simple Hotel reservation system.
+
+Classes required include:
+
+* `Rooms` class which should allow for different types of rooms.
+* `Customer` class which should allow for a loyalty scheme.
+* `Booking` class.  Keep it simple, one customer can only reserve one room per booking.
+* Create a booking interface that maintains an array of bookings, allows for new bookings, viewing bookings for a room, viewing bookings for a customer etc.

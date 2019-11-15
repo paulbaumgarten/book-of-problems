@@ -1,4 +1,4 @@
-# Problem title
+# Contacts app (OOP)
 
 ## RECOMMENDED PRIOR UNDERSTANDING
 
@@ -14,9 +14,6 @@
 |                                       |                                       |
 |                                       |                                       |
 
-Calculate the monthly payments of a fixed term loan over given Nth terms at a given interest
-rate. Also figure out how long it will take the user to pay back the loan. For added complexity, add an option for users to select the compounding interval ﴾Monthly, Weekly, Daily, Continually﴿.
-
 ## TASK TWO
 
 ## TASK THREE
@@ -24,3 +21,8 @@ rate. Also figure out how long it will take the user to pay back the loan. For a
 ## ATTRIBUTION/CREDIT
 
 
+Create a contacts information system, along the lines of the one in my Java tutorials
+
+* [https://pbaumgarten.com/java/swing.html](https://pbaumgarten.com/java/swing.html)
+
+![](img/swing-demo-2.jpg)
