@@ -20,6 +20,12 @@ Allow for various levels of repetition, such as once per day, once per week, onc
 
 Pause and save on program close, auto load and resume on program re-start.
 
+## REMEMBER
+
+* Your program must include appropriate prompts for the entry of data.
+* Error messages and other output need to be set out clearly.
+* All variables, constants and other identifiers must have meaningful names.
+
 ## ATTRIBUTION/CREDIT
 
 https://www.reddit.com/r/beginnerprojects/comments/1bvdmq/project_countdown_clock/

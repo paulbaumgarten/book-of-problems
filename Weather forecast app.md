@@ -22,6 +22,12 @@ Print out data for the next 5-7 days so you have a 5 day/week long forecast.
 
 Add a GUI front end to your app
 
+## REMEMBER
+
+* Your program must include appropriate prompts for the entry of data.
+* Error messages and other output need to be set out clearly.
+* All variables, constants and other identifiers must have meaningful names.
+
 ## ATTRIBUTION/CREDIT
 
 https://www.reddit.com/r/beginnerprojects/comments/1dzbu7/project_whats_the_weather/

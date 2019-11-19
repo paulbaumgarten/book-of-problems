@@ -10,6 +10,12 @@ Write a function that determines if a number provided as a parameter is a prime 
 
 For how many prime numbers does the above pattern hold true? Write a computer program to calculate and find out using your function from Task One..
 
+## REMEMBER
+
+* Your program must include appropriate prompts for the entry of data.
+* Error messages and other output need to be set out clearly.
+* All variables, constants and other identifiers must have meaningful names.
+
 ## ATTRIBUTION/CREDIT
 
 Unknown

@@ -26,3 +26,10 @@ Create a contacts information system, along the lines of the one in my Java tuto
 * [https://pbaumgarten.com/java/swing.html](https://pbaumgarten.com/java/swing.html)
 
 ![](img/swing-demo-2.jpg)
+
+## REMEMBER
+
+* Your program must include appropriate prompts for the entry of data.
+* Error messages and other output need to be set out clearly.
+* All variables, constants and other identifiers must have meaningful names.
+
