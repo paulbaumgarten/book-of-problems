@@ -1,18 +1,12 @@
-# Problem title
-
-## RECOMMENDED PRIOR UNDERSTANDING
-
-## RECOMMENDED PACKAGES
-
-## RECOMMENDED RESOURCES
+# HKID number validation
 
 ## TASK ONE
 
-| Example input                         | Example output                        |
-| ------------------------------------- | ------------------------------------- |
-|                                       |                                       |
-|                                       |                                       |
-|                                       |                                       |
+![](img/hkid_sample.jpg)
+
+The Hong Kong ID number is another check digit algorithm. 
+
+HK ID numbers come in two types....
 
 ## TASK TWO
 
@@ -26,4 +20,4 @@
 
 ## ATTRIBUTION/CREDIT
 
-
+* https://access-excel.tips/hkid-check-digit/

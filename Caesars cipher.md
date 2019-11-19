@@ -2,10 +2,11 @@
 
 ## TASK
 
-Julius Caesar created one of the first own encryption algorithms. It used a substitution method where each letter was replaced by another a fixed number of letters across from the original.
+Julius Caesar created one of the first own encryption algorithms. It used a substitution method where each letter was replaced by another a fixed number of letters across from the original. 
 
-* Upper/lower casing should be maintained
-* Punctuation characters and digits should be ignored
+The amount each letter shifts is known as the cipher key value. A cipher key with a value of 1 would be the letter "a" would shift to become the letter "b" and so forth. Note in this instance the letter "z" would wrap back to the start to become the letter "a".
+
+Program an implementation of the Caesar cipher that inputs (a) the plain text and (b) a cipher key value, and then outputs the correct cipher text. You should maintain upper/lower casing and ignore punctuation or digits.
 
 | Example input                         | Cipher key | Example output                        |
 | ------------------------------------- | ---------- | ------------------------------------- |

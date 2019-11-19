@@ -1,4 +1,4 @@
-# Problem title
+# ISBN validation
 
 ## RECOMMENDED PRIOR UNDERSTANDING
 
@@ -7,6 +7,8 @@
 ## RECOMMENDED RESOURCES
 
 ## TASK ONE
+
+![](assets/isbn.jpg)
 
 | Example input                         | Example output                        |
 | ------------------------------------- | ------------------------------------- |
@@ -26,4 +28,5 @@
 
 ## ATTRIBUTION/CREDIT
 
+One common example referred to in the textbook is the ISBN. Refer to page 122 to see how it works.
 
