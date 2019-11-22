@@ -9,9 +9,7 @@ By the end of this task set you should have a simple hang-person game working
 
 ## RESOURCES
 
-Get a file with words to use for your game from:
-
-https://pbaumgarten.com/uploads/python/hangman-words.txt
+Get the list of words to use in your game from `https://github.com/paulbaumgarten/data-sets`, it is a file called `hangperson-words.txt`.
 
 ## TASK ONE
 

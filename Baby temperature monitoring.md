@@ -1,4 +1,4 @@
-# Baby temperature monitoring (iGCSE)
+# Baby temperature monitoring
 
 A new born baby is kept in a cot in a hospital; the temperature of the baby is monitored every 10 minutes. The temperature of the baby is recorded in degrees Celsius to one decimal place and must be within the range 36.0°C to 37.5°C.
 
