@@ -62,6 +62,8 @@ Your choice:
 
 You don't have to structure your menu as the above, it is an example.
 
+Ensure you validate the input used to create a new task.
+
 ## Task 3: Modifying existing tasks
 
 Provide the mechanism for the user to close/delete a task. When closed, the line containing that task should be removed from the file.
